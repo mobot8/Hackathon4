@@ -1,0 +1,281 @@
+a2,status,loantotal
+Benesov,A,107640
+Benesov,C,780312
+Benesov,NULL,887952
+Beroun,A,19248
+Beroun,C,913872
+Beroun,D,527676
+Beroun,NULL,1460796
+Blansko,A,147660
+Blansko,C,736164
+Blansko,D,307200
+Blansko,NULL,1191024
+Breclav,A,123696
+Breclav,B,276660
+Breclav,C,776436
+Breclav,NULL,1176792
+Brno - mesto,A,213432
+Brno - mesto,B,283752
+Brno - mesto,C,2636496
+Brno - mesto,D,915720
+Brno - mesto,NULL,4049400
+Brno - venkov,A,229908
+Brno - venkov,C,938352
+Brno - venkov,D,63972
+Brno - venkov,NULL,1232232
+Bruntal,A,175176
+Bruntal,B,299088
+Bruntal,C,220428
+Bruntal,D,583104
+Bruntal,NULL,1277796
+Ceska Lipa,A,178968
+Ceska Lipa,C,283716
+Ceska Lipa,NULL,462684
+Ceske Budejovice,A,117024
+Ceske Budejovice,C,1560252
+Ceske Budejovice,D,333648
+Ceske Budejovice,NULL,2010924
+Cesky Krumlov,A,118560
+Cesky Krumlov,B,87216
+Cesky Krumlov,C,378552
+Cesky Krumlov,NULL,584328
+Cheb,A,270768
+Cheb,C,168048
+Cheb,NULL,438816
+Chomutov,A,156780
+Chomutov,B,174744
+Chomutov,C,592392
+Chomutov,NULL,923916
+Chrudim,A,157248
+Chrudim,C,731232
+Chrudim,D,543204
+Chrudim,NULL,1431684
+Decin,A,46320
+Decin,C,463632
+Decin,NULL,509952
+Domazlice,C,136368
+Domazlice,D,260640
+Domazlice,NULL,397008
+Frydek - Mistek,A,577788
+Frydek - Mistek,B,68400
+Frydek - Mistek,C,1407564
+Frydek - Mistek,NULL,2053752
+Havlickuv Brod,A,38520
+Havlickuv Brod,C,1051008
+Havlickuv Brod,D,103680
+Havlickuv Brod,NULL,1193208
+Hl.m. Praha,A,2985540
+Hl.m. Praha,B,655020
+Hl.m. Praha,C,7919736
+Hl.m. Praha,D,1372116
+Hl.m. Praha,NULL,12932412
+Hodonin,A,228384
+Hodonin,C,963120
+Hodonin,NULL,1191504
+Hradec Kralove,A,41952
+Hradec Kralove,C,516744
+Hradec Kralove,D,71976
+Hradec Kralove,NULL,630672
+Jablonec n. Nisou,C,127200
+Jablonec n. Nisou,NULL,127200
+Jesenik,A,174276
+Jesenik,C,1160028
+Jesenik,D,604128
+Jesenik,NULL,1938432
+Jicin,A,317808
+Jicin,C,533556
+Jicin,NULL,851364
+Jihlava,C,366096
+Jihlava,NULL,366096
+Jindrichuv Hradec,A,458832
+Jindrichuv Hradec,B,60156
+Jindrichuv Hradec,C,820584
+Jindrichuv Hradec,NULL,1339572
+Karlovy Vary,A,208224
+Karlovy Vary,B,224064
+Karlovy Vary,C,412908
+Karlovy Vary,NULL,845196
+Karvina,A,745824
+Karvina,C,1613124
+Karvina,D,700872
+Karvina,NULL,3059820
+Kladno,A,84384
+Kladno,C,892824
+Kladno,D,129312
+Kladno,NULL,1106520
+Klatovy,C,171180
+Klatovy,D,99696
+Klatovy,NULL,270876
+Kolin,A,231720
+Kolin,C,1669440
+Kolin,NULL,1901160
+Kromeriz,A,18324
+Kromeriz,C,688236
+Kromeriz,D,253512
+Kromeriz,NULL,960072
+Kutna Hora,B,521880
+Kutna Hora,C,1213236
+Kutna Hora,D,360864
+Kutna Hora,NULL,2095980
+Liberec,C,971292
+Liberec,NULL,971292
+Litomerice,A,224424
+Litomerice,C,891804
+Litomerice,NULL,1116228
+Louny,A,394452
+Louny,C,1145604
+Louny,NULL,1540056
+Melnik,A,154884
+Melnik,C,402912
+Melnik,NULL,557796
+Mlada Boleslav,C,420720
+Mlada Boleslav,D,196800
+Mlada Boleslav,NULL,617520
+Most,A,288444
+Most,C,326616
+Most,NULL,615060
+Nachod,A,165960
+Nachod,C,1602420
+Nachod,NULL,1768380
+Novy Jicin,A,27456
+Novy Jicin,C,489168
+Novy Jicin,D,177744
+Novy Jicin,NULL,694368
+Nymburk,A,244728
+Nymburk,C,760356
+Nymburk,NULL,1005084
+Olomouc,A,598224
+Olomouc,B,29448
+Olomouc,C,1194420
+Olomouc,D,465504
+Olomouc,NULL,2287596
+Opava,A,74040
+Opava,B,66480
+Opava,C,952692
+Opava,D,399864
+Opava,NULL,1493076
+Ostrava - mesto,A,404676
+Ostrava - mesto,B,324732
+Ostrava - mesto,C,2379084
+Ostrava - mesto,D,151728
+Ostrava - mesto,NULL,3260220
+Pardubice,A,28248
+Pardubice,C,1620120
+Pardubice,NULL,1648368
+Pelhrimov,A,91632
+Pelhrimov,C,324060
+Pelhrimov,NULL,415692
+Pisek,A,154416
+Pisek,C,323076
+Pisek,NULL,477492
+Plzen - jih,A,312744
+Plzen - jih,C,981444
+Plzen - jih,NULL,1294188
+Plzen - mesto,A,29784
+Plzen - mesto,C,454800
+Plzen - mesto,D,272220
+Plzen - mesto,NULL,756804
+Plzen - sever,A,404820
+Plzen - sever,C,934164
+Plzen - sever,NULL,1338984
+Prachatice,A,664812
+Prachatice,C,1283928
+Prachatice,D,407952
+Prachatice,NULL,2356692
+Praha - vychod,A,270672
+Praha - vychod,C,588792
+Praha - vychod,NULL,859464
+Praha - zapad,A,771984
+Praha - zapad,B,137904
+Praha - zapad,C,323208
+Praha - zapad,NULL,1233096
+Prerov,A,296508
+Prerov,C,399120
+Prerov,NULL,695628
+Pribram,A,249708
+Pribram,B,76908
+Pribram,C,972576
+Pribram,NULL,1299192
+Prostejov,A,275640
+Prostejov,B,189696
+Prostejov,C,673476
+Prostejov,NULL,1138812
+Rakovnik,A,212292
+Rakovnik,B,61656
+Rakovnik,C,686796
+Rakovnik,NULL,960744
+Rokycany,A,51408
+Rokycany,C,1055616
+Rokycany,D,222180
+Rokycany,NULL,1329204
+Rychnov nad Kneznou,A,7656
+Rychnov nad Kneznou,C,608508
+Rychnov nad Kneznou,D,137880
+Rychnov nad Kneznou,NULL,754044
+Semily,A,95400
+Semily,C,180780
+Semily,NULL,276180
+Sokolov,A,52128
+Sokolov,B,96396
+Sokolov,NULL,148524
+Strakonice,A,97632
+Strakonice,B,192552
+Strakonice,C,486840
+Strakonice,D,447468
+Strakonice,NULL,1224492
+Sumperk,C,829644
+Sumperk,NULL,829644
+Svitavy,A,338988
+Svitavy,C,1238532
+Svitavy,D,522564
+Svitavy,NULL,2100084
+Tabor,A,203712
+Tabor,B,60552
+Tabor,C,700680
+Tabor,NULL,964944
+Tachov,A,520536
+Tachov,B,236460
+Tachov,C,202788
+Tachov,NULL,959784
+Teplice,A,103860
+Teplice,C,768888
+Teplice,NULL,872748
+Trebic,A,236724
+Trebic,B,51360
+Trebic,C,341916
+Trebic,NULL,630000
+Trutnov,A,42900
+Trutnov,C,1033680
+Trutnov,NULL,1076580
+Uherske Hradiste,A,37908
+Uherske Hradiste,C,1644132
+Uherske Hradiste,NULL,1682040
+Usti nad Labem,A,224184
+Usti nad Labem,C,123300
+Usti nad Labem,NULL,347484
+Usti nad Orlici,A,499560
+Usti nad Orlici,C,1422900
+Usti nad Orlici,D,290700
+Usti nad Orlici,NULL,2213160
+Vsetin,A,173808
+Vsetin,C,317172
+Vsetin,NULL,490980
+Vyskov,A,387336
+Vyskov,C,389856
+Vyskov,NULL,777192
+Zdar nad Sazavou,A,403980
+Zdar nad Sazavou,C,922560
+Zdar nad Sazavou,NULL,1326540
+Zlin,A,512760
+Zlin,C,2206128
+Zlin,D,293880
+Zlin,NULL,3012768
+Znojmo,A,98184
+Znojmo,B,187224
+Znojmo,C,658968
+Znojmo,NULL,944376
+NULL,A,18603216
+NULL,B,4362348
+NULL,C,69078372
+NULL,D,11217804
+NULL,NULL,103261740
